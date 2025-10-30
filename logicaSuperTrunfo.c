@@ -1,6 +1,33 @@
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
+// Tema 1 - Cadastro das cartas
+// Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
+
+int main() {
+  // Área para definição das variáveis para armazenar as propriedades das cidades
+  //Carta 1
+  char estado1;
+  char codigo1[0];
+  char nomeCidade1[0];
+  int populacao1, pontosTuristicos1;
+  float area1, pib1;
+
+  //Carta 2
+  char estado2;
+  char codigo2[0];
+  char nomeCidade2[0];
+  int populacao2, pontosTuristicos2;
+  float area2, pib2;
+
+  // Área para entrada de dados
+
+  // Área para exibição dos dados da cidade
+
+return 0;
+} 
+
+// Desafio Super Trunfo - Países
 // Tema 2 - Comparação das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
 // Siga os comentários para implementar cada parte do desafio.
